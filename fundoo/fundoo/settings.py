@@ -106,7 +106,7 @@ DATABASES = {
         'NAME': 'aman',
         'USER': 'admin',
         'PASSWORD': 'sharkaman',
-        'HOST': 'database-2.clrqzcwedelt.ap-south-1.rds.amazonaws.com',
+        'HOST': 'database-container',
         'PORT': '3306',
     }
 }
