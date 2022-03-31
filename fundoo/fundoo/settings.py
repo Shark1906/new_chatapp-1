@@ -106,7 +106,7 @@ DATABASES = {
         'NAME': 'aman',
         'USER': 'admin',
         'PASSWORD': 'sharkaman',
-        'HOST': 'database-container',
+        'HOST': 'mysqlcontainer-compose',
         'PORT': '3306',
     }
 }
